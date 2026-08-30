@@ -1,0 +1,1 @@
+const eDivisivelPor3 = num => num % 3 === 0;
